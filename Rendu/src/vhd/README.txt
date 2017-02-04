@@ -8,6 +8,7 @@ multiplexer_RGB.vhd
 packageVGA.vhd
 system_top.ucf
 system_top.vhd
+system_top_without_cam.vhd
 VGA_generator.vhd
 
 coregen
