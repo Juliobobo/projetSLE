@@ -11,4 +11,4 @@ system_top.vhd
 VGA_generator.vhd
 
 coregen
-	Contient les fichiers .ngc et .vhdl de la mémoire utilisée. (240*320 mots de 8 bits)
+	Contient les fichiers .ngc et .vhdl des mémoires utilisées. (240*320 mots de 8 bits)
